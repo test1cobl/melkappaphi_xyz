@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `Mel Kappa Phi &#124; Your Union`,
+    title: `Mel Kappa Phi`,
     description: `Death is free.`,
     author: `@collinblatt`,
   },
