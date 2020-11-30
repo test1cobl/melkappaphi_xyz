@@ -11,6 +11,9 @@ const IndexPage = () => (
     <h1>IT Interns of world, unite!</h1>
     <p>Through Victory my chains are Broken.</p>
     <p>The Force shall free me.</p>
+
+    <p>Eric deserves a raise.</p>
+
     <div style={{ maxWidth: `300px`, marginBottom: `1.45rem` }}>
       <Image />
     </div>
