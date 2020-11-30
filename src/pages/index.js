@@ -12,7 +12,7 @@ const IndexPage = () => (
     <p>Through Victory my chains are Broken.</p>
     <p>The Force shall free me.</p>
 
-    <p>Eric deserves a raise.</p>
+    <p style="font-style:oblique;font-weight:bold;text-shadow: 1.5px 1.5px #008080;">Eric deserves a raise.</p>
 
     <div style={{ maxWidth: `300px`, marginBottom: `1.45rem` }}>
       <Image />
